@@ -1,0 +1,71 @@
+G:/Intern-Cordic/verilog/reciprocal_cordic_float/TB_reciprocal_float.v {1 {vlog -work work -stats=none G:/Intern-Cordic/verilog/reciprocal_cordic_float/TB_reciprocal_float.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module TB_reciprocal_float
+
+Top level modules:
+	TB_reciprocal_float
+
+} {} {}} G:/Intern-Cordic/verilog/reciprocal_cordic_float/cordic_linear.v {1 {vlog -work work -stats=none G:/Intern-Cordic/verilog/reciprocal_cordic_float/cordic_linear.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module cordic_linear
+
+Top level modules:
+	cordic_linear
+
+} {} {}} G:/Intern-Cordic/verilog/reciprocal_cordic_float/reciprocal_float_CU.v {1 {vlog -work work -stats=none G:/Intern-Cordic/verilog/reciprocal_cordic_float/reciprocal_float_CU.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module reciprocal_float_CU
+
+Top level modules:
+	reciprocal_float_CU
+
+} {} {}} G:/Intern-Cordic/verilog/reciprocal_cordic_float/reciprocal_float_DP.v {1 {vlog -work work -stats=none G:/Intern-Cordic/verilog/reciprocal_cordic_float/reciprocal_float_DP.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module reciprocal_float_DP
+
+Top level modules:
+	reciprocal_float_DP
+
+} {} {}} G:/Intern-Cordic/verilog/reciprocal_cordic_float/upCounterRE.v {1 {vlog -work work -stats=none G:/Intern-Cordic/verilog/reciprocal_cordic_float/upCounterRE.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module upCounterRE
+
+Top level modules:
+	upCounterRE
+
+} {} {}} G:/Intern-Cordic/verilog/reciprocal_cordic_float/Adder.v {1 {vlog -work work -stats=none G:/Intern-Cordic/verilog/reciprocal_cordic_float/Adder.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module adder
+
+Top level modules:
+	adder
+
+} {} {}} G:/Intern-Cordic/verilog/reciprocal_cordic_float/reciprocal_float.v {1 {vlog -work work -stats=none G:/Intern-Cordic/verilog/reciprocal_cordic_float/reciprocal_float.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module reciprocal_float
+
+Top level modules:
+	reciprocal_float
+
+} {} {}} G:/Intern-Cordic/verilog/reciprocal_cordic_float/register_param.v {1 {vlog -work work -stats=none G:/Intern-Cordic/verilog/reciprocal_cordic_float/register_param.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module register_param
+
+Top level modules:
+	register_param
+
+} {} {}} G:/Intern-Cordic/verilog/reciprocal_cordic_float/cordic_linear_DP.v {1 {vlog -work work -stats=none G:/Intern-Cordic/verilog/reciprocal_cordic_float/cordic_linear_DP.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module cordic_linear_DP
+
+Top level modules:
+	cordic_linear_DP
+
+} {} {}} G:/Intern-Cordic/verilog/reciprocal_cordic_float/cordic_linear_CU.v {1 {vlog -work work -stats=none G:/Intern-Cordic/verilog/reciprocal_cordic_float/cordic_linear_CU.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module cordic_linear_CU
+
+Top level modules:
+	cordic_linear_CU
+
+} {} {}}

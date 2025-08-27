@@ -1,0 +1,171 @@
+m255
+K3
+z0
+!s11f MIXED_VERSIONS
+13
+cModel Technology
+dG:\Intern-Cordic\verilog\reciprocal_cordic_float
+vadder
+Z0 !s110 1727269068
+!i10b 1
+!s100 =2QB3XaMnQk=OQ<8IOb_30
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+Im_Z6G=B8niEe4On0K9ehC2
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dG:/Intern-Cordic/verilog/square_root_cordic_float
+w1726694127
+8G:/Intern-Cordic/verilog/square_root_cordic_float/Adder.v
+FG:/Intern-Cordic/verilog/square_root_cordic_float/Adder.v
+!i122 98
+L0 1 11
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z5 !s108 1727269068.000000
+!s107 G:/Intern-Cordic/verilog/square_root_cordic_float/Adder.v|
+!s90 -reportprogress|300|-work|work|-stats=none|G:/Intern-Cordic/verilog/square_root_cordic_float/Adder.v|
+!i113 1
+Z6 o-work work
+Z7 tCvgOpt 0
+vregister_param
+R0
+!i10b 1
+!s100 9DHRm9O1n?1g0mYAE@T[f0
+R1
+IR=VN:[IRfJ1Ze48_j:Z1R1
+R2
+R3
+w1724141848
+8G:/Intern-Cordic/verilog/square_root_cordic_float/register_param.v
+FG:/Intern-Cordic/verilog/square_root_cordic_float/register_param.v
+!i122 99
+L0 1 19
+R4
+r1
+!s85 0
+31
+R5
+!s107 G:/Intern-Cordic/verilog/square_root_cordic_float/register_param.v|
+!s90 -reportprogress|300|-work|work|-stats=none|G:/Intern-Cordic/verilog/square_root_cordic_float/register_param.v|
+!i113 1
+R6
+R7
+vsquare_root_cordic
+!s110 1727255480
+!i10b 1
+!s100 R9H@hYM^0gDE@a47JHP>51
+R1
+IDSQBDnd7kUObZF4ga?]X12
+R2
+R3
+w1727252899
+Z8 8G:/Intern-Cordic/verilog/square_root_cordic_float/square_root_float.v
+Z9 FG:/Intern-Cordic/verilog/square_root_cordic_float/square_root_float.v
+!i122 94
+Z10 L0 1 66
+R4
+r1
+!s85 0
+31
+!s108 1727255480.000000
+Z11 !s107 G:/Intern-Cordic/verilog/square_root_cordic_float/square_root_float.v|
+Z12 !s90 -reportprogress|300|-work|work|-stats=none|G:/Intern-Cordic/verilog/square_root_cordic_float/square_root_float.v|
+!i113 1
+R6
+R7
+vsquare_root_cordic_CU
+R0
+!i10b 1
+!s100 G;BOkVY@MzB_JB4R@<@kk2
+R1
+I3Unm5l1e9ZFn6KI;9A9TZ1
+R2
+R3
+w1727255471
+8G:/Intern-Cordic/verilog/square_root_cordic_float/square_root_float_CU.v
+FG:/Intern-Cordic/verilog/square_root_cordic_float/square_root_float_CU.v
+!i122 97
+L0 1 106
+R4
+r1
+!s85 0
+31
+R5
+!s107 G:/Intern-Cordic/verilog/square_root_cordic_float/square_root_float_CU.v|
+!s90 -reportprogress|300|-work|work|-stats=none|G:/Intern-Cordic/verilog/square_root_cordic_float/square_root_float_CU.v|
+!i113 1
+R6
+R7
+nsquare_root_cordic_@c@u
+vsquare_root_cordic_DP
+R0
+!i10b 1
+!s100 T=bVjWYX:=zX_b5^?:7QR3
+R1
+I_7WkOWi9Y@8?C?]kZ143J0
+R2
+R3
+w1727268585
+8G:/Intern-Cordic/verilog/square_root_cordic_float/square_root_float_DP.v
+FG:/Intern-Cordic/verilog/square_root_cordic_float/square_root_float_DP.v
+!i122 96
+L0 1 150
+R4
+r1
+!s85 0
+31
+R5
+!s107 G:/Intern-Cordic/verilog/square_root_cordic_float/square_root_float_DP.v|
+!s90 -reportprogress|300|-work|work|-stats=none|G:/Intern-Cordic/verilog/square_root_cordic_float/square_root_float_DP.v|
+!i113 1
+R6
+R7
+nsquare_root_cordic_@d@p
+vsquare_root_float
+R0
+!i10b 1
+!s100 `JA[YMBK4=4l_2j^abFQo2
+R1
+IMAMA9PfUJVBVOz0:NKkzB3
+R2
+R3
+w1727268065
+R8
+R9
+!i122 100
+R10
+R4
+r1
+!s85 0
+31
+R5
+R11
+R12
+!i113 1
+R6
+R7
+vTB_square_root_float
+!s110 1727269069
+!i10b 1
+!s100 okbA2_8Jol4T8OI:Q;@0V0
+R1
+I=d]C]15O1YSaCf8]fMNd02
+R2
+R3
+w1727268071
+8G:/Intern-Cordic/verilog/square_root_cordic_float/TB_square_root.v
+FG:/Intern-Cordic/verilog/square_root_cordic_float/TB_square_root.v
+!i122 101
+L0 2 150
+R4
+r1
+!s85 0
+31
+R5
+!s107 G:/Intern-Cordic/verilog/square_root_cordic_float/TB_square_root.v|
+!s90 -reportprogress|300|-work|work|-stats=none|G:/Intern-Cordic/verilog/square_root_cordic_float/TB_square_root.v|
+!i113 1
+R6
+R7
+n@t@b_square_root_float

@@ -1,0 +1,48 @@
+vsim -gui work.TB_square_root_float
+# vsim -gui work.TB_square_root_float 
+# Start time: 15:58:48 on Sep 25,2024
+# Loading work.TB_square_root_float
+# Loading work.square_root_cordic
+# Loading work.square_root_cordic_DP
+# Loading work.register_param
+# Loading work.adder
+# Loading work.square_root_cordic_CU
+add wave -position insertpoint sim:/TB_square_root_float/*
+run -all
+# ** Note: $stop    : G:/Intern-Cordic/verilog/square_root_cordic_float/TB_square_root.v(149)
+#    Time: 7830 ns  Iteration: 0  Instance: /TB_square_root_float
+# Break in Module TB_square_root_float at G:/Intern-Cordic/verilog/square_root_cordic_float/TB_square_root.v line 149
+# Compile of square_root_float_DP.v was successful.
+# Compile of square_root_float_CU.v was successful.
+# Compile of Adder.v was successful.
+# Compile of register_param.v was successful.
+# Compile of square_root_float.v was successful.
+# Compile of TB_square_root.v was successful.
+# 6 compiles, 0 failed with no errors.
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.TB_square_root_float
+# Loading work.square_root_float
+# Loading work.square_root_cordic_DP
+# Loading work.register_param
+# Loading work.adder
+# Loading work.square_root_cordic_CU
+run -all
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+# ** Note: $stop    : G:/Intern-Cordic/verilog/square_root_cordic_float/TB_square_root.v(149)
+#    Time: 7830 ns  Iteration: 0  Instance: /TB_square_root_float
+# Break in Module TB_square_root_float at G:/Intern-Cordic/verilog/square_root_cordic_float/TB_square_root.v line 149
+restart
+run -all
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+# ** Note: $stop    : G:/Intern-Cordic/verilog/square_root_cordic_float/TB_square_root.v(149)
+#    Time: 7830 ns  Iteration: 0  Instance: /TB_square_root_float
+# Break in Module TB_square_root_float at G:/Intern-Cordic/verilog/square_root_cordic_float/TB_square_root.v line 149
+quit -sim
+# End time: 16:30:08 on Sep 25,2024, Elapsed time: 0:31:20
+# Errors: 0, Warnings: 2
+# Closing project G:/Intern-Cordic/verilog/square_root_cordic_float/square_root_cordic_float.mpf
